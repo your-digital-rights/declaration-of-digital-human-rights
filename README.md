@@ -1,6 +1,6 @@
-###Declaration of Digital Human Rights
+### Declaration of Digital Human Rights
 
-See: [Baqckground](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Backgound.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md)
+[Background](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Background.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md)
 
 1. Individuals come before Organizations (Corporations and Governments) and algorithms (eg. when registering a trademarked domain name, or when being held accountable for a crime).
 2. Individuals are free and have a right to a free, uncensored internet. States have an obligation to facilitate the production, exchange, diffusion, and access to the Internet.

@@ -1,4 +1,6 @@
-###Glossary
+### Glossary
+
+[Declaration](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/README.md), [Background](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Background.md)
 
 *   Anonymity - a condition whereby no Personal Identifying Information is provided.
 *   Anonymous Usage - A guarantee that the information collected as a result of Service usage _cannot_ be used to link said usage with the usage of any other Service.

@@ -1,4 +1,6 @@
-###Background
+### Background
+
+[Declaration](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/README.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md)
 
 Several alarming trends are currently influencing the digital space:
 
