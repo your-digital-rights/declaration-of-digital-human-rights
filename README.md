@@ -1,5 +1,7 @@
 ### Declaration of Digital Human Rights
 
+We believe that the Internet is a global public resource created by the people for the benefit of the people, and as such should be beyond the regulatory reach of any single government. The following declaration aims to establish better foundations on top of which the Internet can thrive, while mitigating the [threats](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Background.md) which have emarged over the past years.
+
 [Background](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Background.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md)
 
 1. Individuals come before Organizations (Corporations and Governments) and algorithms (eg. when registering a trademarked domain name, or when being held accountable for a crime).
