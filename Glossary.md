@@ -1,6 +1,6 @@
 ### Glossary
 
-[Declaration](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/README.md), [Trends](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Background.md)
+[Declaration](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/README.md), [Overview](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Overview.md)
 
 Term | Definition
 ---- | ----------
