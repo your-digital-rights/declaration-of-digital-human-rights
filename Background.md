@@ -16,7 +16,3 @@ Several alarming trends are currently influencing the digital space:
 9. Vendors of digital goods carry no “product liability” for their Services
 10. The move to subscription based cloud services blurs the line between ownership and a “license to use” the work products of an individual (ie. documents, images, etc. the individual creates). It allows organisations to make one-sided decisions to change the type of ownership retrospectively, often after the individual is invested in a platforme
 11. Many individuals lack an in-depth understanding of the above trends and are being exploited by those who do. Children are particularly susceptible to this form of abuse 
-
-We believe that the Internet is a global public resource created by the people for the benefit of the people, and as such should be beyond the regulatory reach of any one government. The following declaration aims to establish better foundations on top of which the Internet can thrive, while mitigating the threats posed by the above trends.
-
-
