@@ -1,4 +1,4 @@
-# Released under Creative Commons Attribution-ShareAlike 4.0
+## Released under Creative Commons Attribution-ShareAlike 4.0
 
 The Decleration of Digital Human Rights and related documents are licensed under
 the Creative Commons Attribution-ShareAlike 4.0 International License. To view
