@@ -1,4 +1,4 @@
-### Current Trends
+### Overview
 
 [Declaration](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/README.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md)
 
