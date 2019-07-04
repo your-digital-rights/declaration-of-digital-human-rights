@@ -6,7 +6,7 @@ Term | Definition
 ---- | ----------
 Anonymity | A condition whereby no Personal Identifying Information is provided.
 Anonymous Usage | A guarantee that the information collected as a result of Service usage _cannot_ be used to link said usage with the usage of any other Service.
-Conversion Optimisation | Modification of a User Experience based on an individual’s interaction with a Service (to facilitate a sale, increase engagement etc.).
+#Conversion Optimisation | Modification of a User Experience based on an individual’s interaction with a Service (to facilitate a sale, increase engagement etc.).
 Copyright | The exclusive right to make copies, license, and otherwise exploit data and exclude Fair Use Rights. 
 Fair Use Rights | The right to use portions of copyrighted materials without permission of the copyright owner provided the use does not substantially impair the value of the materials, and does not curtail the profits reasonably expected by the copyright owner.
 GDPR | The General Data Protection Regulation 2016/679 is a regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area. 
