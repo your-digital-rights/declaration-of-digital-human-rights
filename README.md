@@ -1,9 +1,9 @@
 ## Declaration of Digital Human Rights
+(See: [The Problem](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/TheProblem.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md))
+
 The Internet was created by individuals, governments, academic and military institutions and corporations. Over the decades since it's inception our individual and collective dependence on the digital space has grown to a degree where it now makes sense to consider it a basic human right. The Internet however does not benefit from the same recognition and protection enjoyed by other basic [human rights](https://www.un.org/en/universal-declaration-human-rights/). It is a global, public resource, and as such should be beyond the regulatory reach of any single government.
 
 This declaration intends to establish a better foundations on top of which the Internet can thrive, while mitigating the concerning [trends](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/TheProblem.md) which have emerged over the past decades. It aims to illustrate an aspirational future state, to remind us and future generations of what we should be striving for.
-
-(See: [The Problem](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/TheProblem.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md))
 
 1. Individuals take precedence over Organizations (Corporations and Governments) and Algorithms ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/1))
 
