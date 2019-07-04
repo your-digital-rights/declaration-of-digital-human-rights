@@ -4,7 +4,7 @@ We believe that the Internet is a global public resource created by the people f
 
 [Overview](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Overview.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md)
 
-1. Individuals come before Organizations (Corporations and Governments) and algorithms (eg. when registering a trademarked domain name, or when being held accountable for a crime).
+1. Individuals before Organizations (Corporations and Governments) and Algorithms ([discussion](#1))
 
 2. Individuals are free and have a right to a free, uncensored internet. States have an obligation to facilitate the production, exchange, diffusion, and access to the Internet.
 
