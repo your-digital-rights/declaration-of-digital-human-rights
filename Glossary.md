@@ -15,7 +15,7 @@ Moral Rights | The right of attribution, the right to have a work published anon
 Open Source | Software whose source code is available free of charge to the public to use, copy, modify, sublicense, or distribute.
 Organizations | An entity comprising multiple people that has a collective goal and is linked to an external environment. Organizations include companies, and governments. 
 Ownership (of data) | A combination of one or more of the following: Moral Rights, Copyrights and Fair Use Rights.
-Personal Data | see [definition](https://gdpr-info.eu/art-4-gdpr/) under the GDPR. 
-Service | a digital product, system or a service.
+Personal Data | See [definition](https://gdpr-info.eu/art-4-gdpr/) under the GDPR. 
+Service | A digital product, system or a service.
 Product Liability | The responsibility of a manufacturer or vendor of goods and services to compensate for damage caused by defective merchandise that it has provided for sale.
 User Experience | An individual’s perceptions and responses resulting from the use and or anticipated use of a Service.
