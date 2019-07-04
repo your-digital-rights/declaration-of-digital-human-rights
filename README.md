@@ -20,7 +20,7 @@ We believe that the Internet is a global public resource created by the people f
     2. Any entity wishing to collect personal identifying information about an individual must first obntain explicit permission to do so, and must explain how the information will be used (this is covered in detail by the [GDPR](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en)). 
     3. Individuals must grant explicit permission by actively opting in, before any information which is collected about them or about their online behaviour, personal or otherwise, is used for the purpose of “conversion optimisation”. Organisations must not use an individual’s refusal to provide such information as grounds to prevent access to a Service or to provide a degraded User Experience. 
     
-6. [Personal data](https://gdpr-info.eu/art-4-gdpr/) is owned by the individual. ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/6))
+6. Personal data is owned by the individual. ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/6))
     1. Only Fair Use Rights to personal data can be sold. 
 
 7. Data which is not of a personal nature is public by default ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/7))
