@@ -3,7 +3,7 @@ The Internet was created by individuals, governments, acdemic and millitary inst
 
 This declration intends to establish a better foundations on top of which the Internet can thrive, while mitigating the concerning [trends](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Background.md) which have emarged over the past decades. It aims to illustrate an aspirational future state, to remind us and future generation of what we should be striving for.
 
-[Overview](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Overview.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md)
+[The Problem](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/TheProblem.md), [Glossary](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/Glossary.md)
 
 1. Individuals take presidence over Organizations (Corporations and Governments) and Algorithms ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/1))
 
