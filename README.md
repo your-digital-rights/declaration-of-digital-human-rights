@@ -38,3 +38,5 @@ This declaration intends to establish a better foundations on top of which the I
     2. Organizations must preserve technological alternatives (including analog alternatives) that are in common use unless the very existence of a Service depends on a particular digital technology, in which case there’s no sense in preserving any other means of access. 
 
 9. The infrastructure on top of which the internet is running (hardware and software) is a public resource and must be operated openly and without prejudice ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/9))
+
+(see [previous discussion](https://docs.google.com/document/d/1F694sg_yLaPfBTfhdC8LM55rQLRMETiwAoyDW8om9Z0/edit) on Google Docs)
