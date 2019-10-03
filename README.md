@@ -5,7 +5,7 @@ The Internet was created by individuals, governments, academic and military inst
 
 This declaration intends to establish a better foundations on top of which the Internet can thrive, while mitigating the concerning [trends](https://github.com/opt-out-eu/declaration-of-digital-human-rights/blob/master/TheProblem.md) which have emerged over the past decades. It aims to illustrate an aspirational future state, to remind us and future generations of what we should be striving for.
 
-1. Individuals take precedence over Organizations (Corporations and Governments) and Algorithms ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/1))
+1. Individuals come before Organizations (Corporations and Governments) and Algorithms ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/1))
 
 2. Individuals are free and have a right to a free, uncensored internet ([discussion](https://github.com/opt-out-eu/declaration-of-digital-human-rights/issues/2))
     1. States have an obligation to facilitate the production, exchange, diffusion, and access to the Internet. 
